@@ -1,4 +1,4 @@
-FROM kost13/cpp-base:1.0
+FROM kost13/cpp-base:latest
 
 ARG GTEST_VERSION=release-1.10.0
 
