@@ -122,7 +122,7 @@ Public License can be found in `/usr/share/common-licenses/GPL'.
 ``` 
 ### base-passwd
 version: 3.5.46  
-licenses: GPL-2; PD  
+licenses: PD; GPL-2  
 copyright notice:  
 ```
 
@@ -385,7 +385,7 @@ support/man2html.c
 ``` 
 ### bsdutils
 version: 1:2.33.1-0.1  
-licenses: LGPL-2.1+; GPL-3+; BSD-3-clause; BSD-4-clause; LGPL-2+; GPL-2; public-domain; GPL-2+; LGPL; MIT; BSD-2-clause; LGPL-3+  
+licenses: LGPL-3+; BSD-4-clause; public-domain; LGPL; GPL-2+; BSD-3-clause; LGPL-2.1+; GPL-3+; MIT; BSD-2-clause; GPL-2; LGPL-2+  
 copyright notice:  
 ```
 
@@ -1577,7 +1577,7 @@ License may be found in `/usr/share/common-licenses/GFDL'.
 ``` 
 ### dpkg
 version: 1.19.7  
-licenses: public-domain-md5; public-domain-s-s-d; GPL-2; GPL-2+; BSD-2-clause  
+licenses: public-domain-s-s-d; public-domain-md5; GPL-2+; BSD-2-clause; GPL-2  
 copyright notice:  
 ```
 
@@ -1834,7 +1834,7 @@ The license used for lib/uuid is:
 ``` 
 ### fdisk
 version: 2.33.1-0.1  
-licenses: LGPL-2.1+; GPL-3+; BSD-3-clause; BSD-4-clause; LGPL-2+; GPL-2; public-domain; GPL-2+; LGPL; MIT; BSD-2-clause; LGPL-3+  
+licenses: LGPL-3+; BSD-4-clause; public-domain; LGPL; GPL-2+; BSD-3-clause; LGPL-2.1+; GPL-3+; MIT; BSD-2-clause; GPL-2; LGPL-2+  
 copyright notice:  
 ```
 
@@ -3800,7 +3800,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ``` 
 ### gpgv
 version: 2.2.12-1+deb10u1  
-licenses: CC0-1.0; TinySCHEME; LGPL-2.1+; GPL-3+; GPL-3+ or BSD-3-clause; RFC-Reference; BSD-3-clause; Expat; LGPL-3+; permissive  
+licenses: GPL-3+ or BSD-3-clause; CC0-1.0; RFC-Reference; LGPL-3+; permissive; LGPL-2.1+; BSD-3-clause; GPL-3+; TinySCHEME; Expat  
 copyright notice:  
 ```
 
@@ -4406,7 +4406,7 @@ Comment:
 ``` 
 ### libaudit-common
 version: 1:2.8.4-3  
-licenses: LGPL-2.1; GPL-2  
+licenses: GPL-2; LGPL-2.1  
 copyright notice:  
 ```
 
@@ -4457,7 +4457,7 @@ License: GPL-2
 ``` 
 ### libaudit1
 version: 1:2.8.4-3  
-licenses: LGPL-2.1; GPL-2  
+licenses: GPL-2; LGPL-2.1  
 copyright notice:  
 ```
 
@@ -4508,7 +4508,7 @@ License: GPL-2
 ``` 
 ### libblkid1
 version: 2.33.1-0.1  
-licenses: LGPL-2.1+; GPL-3+; BSD-3-clause; BSD-4-clause; LGPL-2+; GPL-2; public-domain; GPL-2+; LGPL; MIT; BSD-2-clause; LGPL-3+  
+licenses: LGPL-3+; BSD-4-clause; public-domain; LGPL; GPL-2+; BSD-3-clause; LGPL-2.1+; GPL-3+; MIT; BSD-2-clause; GPL-2; LGPL-2+  
 copyright notice:  
 ```
 
@@ -4973,7 +4973,7 @@ License: MIT
 ``` 
 ### libbz2-1.0
 version: 1.0.6-9.2~deb10u1  
-licenses: GPL-2; BSD-variant  
+licenses: BSD-variant; GPL-2  
 copyright notice:  
 ```
 
@@ -6414,7 +6414,7 @@ The license used for lib/uuid is:
 ``` 
 ### libfdisk1
 version: 2.33.1-0.1  
-licenses: LGPL-2.1+; GPL-3+; BSD-3-clause; BSD-4-clause; LGPL-2+; GPL-2; public-domain; GPL-2+; LGPL; MIT; BSD-2-clause; LGPL-3+  
+licenses: LGPL-3+; BSD-4-clause; public-domain; LGPL; GPL-2+; BSD-3-clause; LGPL-2.1+; GPL-3+; MIT; BSD-2-clause; GPL-2; LGPL-2+  
 copyright notice:  
 ```
 
@@ -9000,7 +9000,7 @@ it falls.
 ``` 
 ### libgnutls30
 version: 3.6.7-4+deb10u5  
-licenses: LGPLv3+_or_GPLv2+; Public domain.; GPLv3+  
+licenses: Public domain.; LGPLv3+_or_GPLv2+; GPLv3+  
 copyright notice:  
 ```
 
@@ -9863,7 +9863,7 @@ Copyright: 2004-2016 Free Software Foundation, Inc.
 ``` 
 ### libgpg-error0
 version: 1.35-1  
-licenses: LGPL-2.1+; GPL-3+; BSD-3-clause; g10-permissive; LGPL-2.1+ or BSD-3-clause  
+licenses: LGPL-2.1+ or BSD-3-clause; LGPL-2.1+; BSD-3-clause; g10-permissive; GPL-3+  
 copyright notice:  
 ```
 
@@ -9995,7 +9995,7 @@ License: BSD-3-clause
 ``` 
 ### libhogweed4
 version: 3.4.1-1  
-licenses: LGPL-2.1+; GAP; other; GPL-2; GPL-2+; public-domain; LGPL-2+; GPL-2+ with Autoconf exception  
+licenses: GPL-2+ with Autoconf exception; public-domain; GPL-2+; LGPL-2.1+; other; GPL-2; LGPL-2+; GAP  
 copyright notice:  
 ```
 
@@ -10351,7 +10351,7 @@ License: GPL-2+
 ``` 
 ### libidn2-0
 version: 2.0.5-1+deb10u1  
-licenses: GPL-3+; LGPL-3+; LGPL-3+ or GPL-2+; GPL-2+; Unicode  
+licenses: Unicode; LGPL-3+; LGPL-3+ or GPL-2+; GPL-2+; GPL-3+  
 copyright notice:  
 ```
 
@@ -10472,7 +10472,7 @@ License: Unicode
 ``` 
 ### liblz4-1
 version: 1.8.3-1  
-licenses: BSD-2-clause; GPL-2; GPL-2+  
+licenses: GPL-2+; BSD-2-clause; GPL-2  
 copyright notice:  
 ```
 
@@ -10581,7 +10581,7 @@ License: BSD-2-clause
 ``` 
 ### liblzma5
 version: 5.2.4-1  
-licenses: noderivs; none; LGPL-2.1+; config-h; Autoconf; GPL-2; GPL-2+; permissive-nowarranty; probably-PD; PD; PD-debian; permissive-fsf  
+licenses: PD-debian; PD; permissive-fsf; permissive-nowarranty; config-h; noderivs; GPL-2+; probably-PD; LGPL-2.1+; none; Autoconf; GPL-2  
 copyright notice:  
 ```
 
@@ -10977,7 +10977,7 @@ License: permissive-nowarranty
 ``` 
 ### libmount1
 version: 2.33.1-0.1  
-licenses: LGPL-2.1+; GPL-3+; BSD-3-clause; BSD-4-clause; LGPL-2+; GPL-2; public-domain; GPL-2+; LGPL; MIT; BSD-2-clause; LGPL-3+  
+licenses: LGPL-3+; BSD-4-clause; public-domain; LGPL; GPL-2+; BSD-3-clause; LGPL-2.1+; GPL-3+; MIT; BSD-2-clause; GPL-2; LGPL-2+  
 copyright notice:  
 ```
 
@@ -11577,7 +11577,7 @@ authorization.
 ``` 
 ### libnettle6
 version: 3.4.1-1  
-licenses: LGPL-2.1+; GAP; other; GPL-2; GPL-2+; public-domain; LGPL-2+; GPL-2+ with Autoconf exception  
+licenses: GPL-2+ with Autoconf exception; public-domain; GPL-2+; LGPL-2.1+; other; GPL-2; LGPL-2+; GAP  
 copyright notice:  
 ```
 
@@ -11933,7 +11933,7 @@ License: GPL-2+
 ``` 
 ### libp11-kit0
 version: 0.23.15-2  
-licenses: permissive-like-automake-output; ISC; BSD-3-Clause; same-as-rest-of-p11kit  
+licenses: same-as-rest-of-p11kit; BSD-3-Clause; permissive-like-automake-output; ISC  
 copyright notice:  
 ```
 
@@ -12966,7 +12966,7 @@ arch-tag: d4250e44-a0e0-4ee0-adb9-2bd74f6eeb27
 ``` 
 ### libsmartcols1
 version: 2.33.1-0.1  
-licenses: LGPL-2.1+; GPL-3+; BSD-3-clause; BSD-4-clause; LGPL-2+; GPL-2; public-domain; GPL-2+; LGPL; MIT; BSD-2-clause; LGPL-3+  
+licenses: LGPL-3+; BSD-4-clause; public-domain; LGPL; GPL-2+; BSD-3-clause; LGPL-2.1+; GPL-3+; MIT; BSD-2-clause; GPL-2; LGPL-2+  
 copyright notice:  
 ```
 
@@ -14876,7 +14876,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ``` 
 ### libsystemd0
 version: 241-7~deb10u4  
-licenses: CC0-1.0; LGPL-2.1+; Expat; GPL-2; GPL-2+; public-domain  
+licenses: CC0-1.0; public-domain; GPL-2+; LGPL-2.1+; GPL-2; Expat  
 copyright notice:  
 ```
 
@@ -15304,7 +15304,7 @@ authorization.
 ``` 
 ### libudev1
 version: 241-7~deb10u4  
-licenses: CC0-1.0; LGPL-2.1+; Expat; GPL-2; GPL-2+; public-domain  
+licenses: CC0-1.0; public-domain; GPL-2+; LGPL-2.1+; GPL-2; Expat  
 copyright notice:  
 ```
 
@@ -15507,7 +15507,7 @@ License: CC0-1.0
 ``` 
 ### libunistring2
 version: 0.9.10-1  
-licenses: GPL-3+; GFDL-1.2+; GPL-3+ or GFDL-1.2+; LGPL-3+ or GPL-2+; GPL-2+; GPL-2+ with distribution exception; FreeSoftware; MIT; LGPL-3+  
+licenses: GPL-3+ or GFDL-1.2+; GPL-2+ with distribution exception; LGPL-3+; LGPL-3+ or GPL-2+; GPL-2+; FreeSoftware; GPL-3+; MIT; GFDL-1.2+  
 copyright notice:  
 ```
 
@@ -15658,7 +15658,7 @@ License: MIT
 ``` 
 ### libuuid1
 version: 2.33.1-0.1  
-licenses: LGPL-2.1+; GPL-3+; BSD-3-clause; BSD-4-clause; LGPL-2+; GPL-2; public-domain; GPL-2+; LGPL; MIT; BSD-2-clause; LGPL-3+  
+licenses: LGPL-3+; BSD-4-clause; public-domain; LGPL; GPL-2+; BSD-3-clause; LGPL-2.1+; GPL-3+; MIT; BSD-2-clause; GPL-2; LGPL-2+  
 copyright notice:  
 ```
 
@@ -16123,7 +16123,7 @@ License: MIT
 ``` 
 ### libzstd1
 version: 1.3.8+dfsg-3  
-licenses: BSD-3-clause; BSD-3-clause and GPL-2; Expat; GPL-2; zlib; GPL-2+  
+licenses: BSD-3-clause and GPL-2; zlib; GPL-2+; BSD-3-clause; GPL-2; Expat  
 copyright notice:  
 ```
 
@@ -16411,7 +16411,7 @@ Boston, MA 02110-1301, USA.
 ``` 
 ### mount
 version: 2.33.1-0.1  
-licenses: LGPL-2.1+; GPL-3+; BSD-3-clause; BSD-4-clause; LGPL-2+; GPL-2; public-domain; GPL-2+; LGPL; MIT; BSD-2-clause; LGPL-3+  
+licenses: LGPL-3+; BSD-4-clause; public-domain; LGPL; GPL-2+; BSD-3-clause; LGPL-2.1+; GPL-3+; MIT; BSD-2-clause; GPL-2; LGPL-2+  
 copyright notice:  
 ```
 
@@ -17257,7 +17257,7 @@ Copyright (C) 1992-2003 Free Software Foundation, Inc.
 ``` 
 ### perl-base
 version: 5.28.1-6+deb10u1  
-licenses: DONT-CHANGE-THE-GPL; GPL-1+ or Artistic, and BSD-3-clause-GENERIC; CC0-1.0; S2P; Artistic; REGCOMP, and GPL-1+ or Artistic; LGPL-2.1; GPL-1+; HSIEH-DERIVATIVE; GPL-1+ or Artistic, and Unicode; BSD-4-clause-POWERDOG; TEXT-TABS; BSD-3-clause; HSIEH-BSD; GPL-3+-WITH-BISON-EXCEPTION; GPL-1+ or Artistic, and BSD-4-clause-POWERDOG; REGCOMP; GPL-2+; Artistic-2; ZLIB; Artistic or GPL-1+ or Artistic-dist; GPL-2+ or Artistic; SDBM-PUBLIC-DOMAIN; GPL-1+ or Artistic; GPL-1+ or Artistic, and Expat; BSD-3-clause-GENERIC; Artistic-dist; BZIP; Expat; BSD-3-clause-with-weird-numbering; GPL-1+ or Artistic or Artistic-dist; Unicode; Expat or GPL-1+ or Artistic; RRA-KEEP-THIS-NOTICE  
+licenses: Artistic; CC0-1.0; ZLIB; BSD-4-clause-POWERDOG; GPL-1+ or Artistic or Artistic-dist; BZIP; HSIEH-BSD; Expat; GPL-1+ or Artistic; RRA-KEEP-THIS-NOTICE; REGCOMP; LGPL-2.1; GPL-1+; Artistic or GPL-1+ or Artistic-dist; HSIEH-DERIVATIVE; Artistic-dist; TEXT-TABS; GPL-1+ or Artistic, and Unicode; DONT-CHANGE-THE-GPL; GPL-1+ or Artistic, and Expat; GPL-3+-WITH-BISON-EXCEPTION; SDBM-PUBLIC-DOMAIN; GPL-2+; REGCOMP, and GPL-1+ or Artistic; S2P; GPL-1+ or Artistic, and BSD-3-clause-GENERIC; Expat or GPL-1+ or Artistic; BSD-3-clause-GENERIC; Artistic-2; Unicode; BSD-3-clause-with-weird-numbering; BSD-3-clause; GPL-2+ or Artistic; GPL-1+ or Artistic, and BSD-4-clause-POWERDOG  
 copyright notice:  
 ```
 
@@ -20338,7 +20338,7 @@ Copyright: This database is in the public domain.
 ``` 
 ### util-linux
 version: 2.33.1-0.1  
-licenses: LGPL-2.1+; GPL-3+; BSD-3-clause; BSD-4-clause; LGPL-2+; GPL-2; public-domain; GPL-2+; LGPL; MIT; BSD-2-clause; LGPL-3+  
+licenses: LGPL-3+; BSD-4-clause; public-domain; LGPL; GPL-2+; BSD-3-clause; LGPL-2.1+; GPL-3+; MIT; BSD-2-clause; GPL-2; LGPL-2+  
 copyright notice:  
 ```
 
