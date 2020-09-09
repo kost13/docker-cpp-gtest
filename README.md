@@ -1,5 +1,7 @@
 # docker-cpp-gtest
 
+![GitHub Actions](https://github.com/kost13/docker-cpp-gtest/workflows/docker-cpp-gtest-ci/badge.svg)
+
 A simple Docker image with basic tools for C++ applications development and [Google Test](https://github.com/google/googletest) framework.
 
 ### Installed software
